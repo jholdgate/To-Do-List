@@ -1,5 +1,4 @@
-/* head {
-} */
+
 body {
   h1 {
     text-align: center;
@@ -18,9 +17,10 @@ body {
     padding-bottom: 10px;
   }background-color: whitesmoke;
 }
-
+div {
+  text-align: center;
+}
 img {
-  align-items: center
   width: 700px;
   height: 500px;
 }
