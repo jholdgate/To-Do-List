@@ -25,7 +25,8 @@ function addTask() {
         if (this.checked) {
         newTaskItem.parentNode.removeChild(newTaskItem);
         }
-});
+    });
+
   newTaskItem.appendChild(checkbox);
 
   document.getElementById("list").appendChild(newTaskItem);

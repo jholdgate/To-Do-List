@@ -1,7 +1,33 @@
-h1 {
-  color: purple;
-}
+/* head {
+} */
 body {
-  .crossed-out {
-    text-decoration: line-through;
+  h1 {
+    text-align: center;
+    border-style: groove;
+    border-color: darkslategray;
+    font-family: 'Courier New', Courier, monospace;
+    color: teal;
+    background-color: grey;
+  }
+  h2 {
+    border-style: dashed;
+    justify-content: center;
+    text-align: center;
+
+    color: purple;
+    padding-bottom: 10px;
+  }background-color: whitesmoke;
 }
+
+img {
+  align-items: center
+  width: 700px;
+  height: 500px;
+}
+
+ol {
+  justify-content: center;
+  border-style: solid;
+  text-align: center;
+}
+
